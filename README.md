@@ -45,4 +45,4 @@ Make sure Ollama is running locally before starting the app.
 
 ## 👨‍💻 Author
 
-Debashish Mishra
+Rupesh kumar sah
